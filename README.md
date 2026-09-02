@@ -1,5 +1,5 @@
 # Fjilla Portfolio
 
-Personal portfolio site hosted on GitHub Pages.
+Developer from the cold north. 
 
 **Live site:** <https://fjilla.github.io/Fjilla>
